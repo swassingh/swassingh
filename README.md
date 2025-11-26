@@ -9,6 +9,15 @@
 
 ### 🚀 Featured Projects
 
+#### 🧬 SNP-GPT
+**Goal:** Analyze and interpret single nucleotide polymorphisms (SNPs) using GPT-based models to make genomic data more accessible and explainable.  
+**Stack:** Python · GPT-based LLMs · Bioinformatics libraries  
+**My Role:** Led prompt engineering and model integration, connecting GPT outputs with existing genomic data sources and designing prompts for variant explanation and risk interpretation.  
+**Impact:** Improved the speed and clarity of SNP interpretation, helping users better understand genetic variants without deep bioinformatics expertise.  
+[[Repo]](https://github.com/swassingh/SNP-GPT)
+
+---
+
 #### 🏋️ PromptFit
 **Goal:** Automate personalized desk and gym workouts using LLMs, with smart rotation rules and habit-friendly delivery.  
 **Stack:** Gemini 2.5 Flash · Node.js · Express · Prisma · Tailwind · Chart.js  
