@@ -10,10 +10,10 @@
 ### 🚀 Featured Projects
 
 #### 🧬 SNP-GPT
-**Goal:** Analyze and interpret single nucleotide polymorphisms (SNPs) using GPT-based models to make genomic data more accessible and explainable.  
-**Stack:** Python · GPT-based LLMs · Bioinformatics libraries  
-**My Role:** Led prompt engineering and model integration, connecting GPT outputs with existing genomic data sources and designing prompts for variant explanation and risk interpretation.  
-**Impact:** Improved the speed and clarity of SNP interpretation, helping users better understand genetic variants without deep bioinformatics expertise.  
+**Goal:** AI-powered financial analysis tool that analyzes SEC 10-K filings and answers natural language questions about financial statements. 
+**Stack:** Flask · OpenAI GPT-4o-mini · SEC API · JavaScript · pygtrie · Pandas
+**My Role:** Built the end-to-end financial analysis platform — Flask backend with SEC API integration, OpenAI-powered question analysis, section-based 10-K extraction, financial glossary with hover tooltips, and autocomplete company search.  
+**Impact:** Helps students, analysts, and investors quickly understand complex financial statements through natural language queries, with guided learning features and interactive financial term definitions. 
 [[Repo (Private)]](https://github.com/swassingh/SNP-GPT)
 
 ---
