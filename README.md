@@ -2,7 +2,7 @@
 
 **AI/ML & Data Engineering** · Informatics Grad @ UW · I build intelligent systems that make data searchable, explainable, and reliable.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://linkedin.com/in/swastiksingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://linkedin.com/in/swassingh)
 [![Email](https://img.shields.io/badge/Email-swas%40uw.edu-success)](mailto:swastik.singh@gmail.com)
 
 ---
@@ -14,7 +14,7 @@
 **Stack:** Flask · OpenAI GPT-4o-mini · SEC API · JavaScript · pygtrie · Pandas
 **My Role:** Built the end-to-end financial analysis platform — Flask backend with SEC API integration, OpenAI-powered question analysis, section-based 10-K extraction, financial glossary with hover tooltips, and autocomplete company search.  
 **Impact:** Helps students, analysts, and investors quickly understand complex financial statements through natural language queries, with guided learning features and interactive financial term definitions. 
-[[Repo (Private)]](https://github.com/swassingh/SNP-GPT)
+[[Repo]](https://github.com/swassingh/SNP-GPT-pro)
 
 ---
 
@@ -32,7 +32,7 @@
 **Stack:** Python · FastAPI · FAISS · BM25 · LangChain  
 **My Role:** Designed and implemented the document retrieval pipeline — embedding text chunks, indexing with FAISS, and integrating BM25 for hybrid search. Also optimized query latency and accuracy using evaluation metrics (ROUGE & cosine similarity).  
 **Impact:** Reduced documentation lookup time by ~40%, helping developers locate relevant Hadoop content faster.  
-[[Repo]](https://github.com/AdamSkog/hadoop-search)
+[[Repo]](https://github.com/swassingh/Hadoop-DocuSearch)
 
 ---
 
@@ -41,7 +41,7 @@
 **Stack:** Qwen-3 · LangChain · JSON Reporting · GitHub Actions  
 **My Role:** Built the core vulnerability-detection logic and evaluation pipeline. Designed the rule-based classification schema, integrated LLM outputs into structured JSON reports, and automated repository analysis via GitHub Actions.  
 **Impact:** Enabled developers to automatically identify prompt injection and insecure code patterns in LLM-based applications.  
-[[Repo]](https://github.com/AdamSkog/llmguard)
+[[Repo]](https://github.com/swassingh/LLMGuard)
 
 ---
 
@@ -50,7 +50,7 @@
 **Stack:** XGBoost · Scikit-learn · Pandas · Streamlit  
 **My Role:** Led the ML modeling pipeline — engineered key features (e.g., comorbidity index, prior stay length), tuned XGBoost hyperparameters, and built a live Streamlit dashboard for model explainability (SHAP visualizations).  
 **Result:** Placed **3rd globally for Best ML Model** (6th Annual DubsTech Datathon).  
-[[Team Repo]](https://github.com/AdamSkog/datamed)
+[[Team Repo]](https://github.com/swassingh/Datathon-DataMed)
 
 ---
 
@@ -59,7 +59,7 @@
 **Stack:** Gemini · Python · FastAPI · Next.js · TypeScript  
 **My Role:** Led prompt engineering and market research to map scanner findings to SOC 2 controls, and built **UncompliantByDefault** as an evaluation tool to systematically probe and validate **CompliantByDefault**’s coverage.  
 **Impact:** Helps teams quickly understand their SOC 2 posture while revealing blind spots through targeted adversarial tests, making compliance efforts more robust.  
-[[CompliantByDefault]](https://github.com/RachitMalik12/CompliantByDefault) · [[UncompliantByDefault]](https://github.com/swassingh/UncompliantByDefault)
+[[CompliantByDefault]](https://github.com/swassingh/CompliantByDefault) · [[UncompliantByDefault]](https://github.com/swassingh/UncompliantByDefault)
 
 ---
 
