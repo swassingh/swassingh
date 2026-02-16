@@ -3,7 +3,7 @@
 **AI/ML & Data Engineering** · Informatics Grad @ UW · I build intelligent systems that make data searchable, explainable, and reliable.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://linkedin.com/in/swassingh)
-[![Email](https://img.shields.io/badge/Email-swas%40uw.edu-success)](mailto:swastik.singh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-swastik.singh%40gmail.com-success)](mailto:swastik.singh@gmail.com)
 
 ---
 
